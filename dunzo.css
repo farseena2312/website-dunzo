@@ -1,0 +1,281 @@
+.body{
+    margin: 0%;
+    padding: 0%;
+}
+
+.dunzo_logo
+{
+    padding-left: 200px;
+}
+.location-icon{
+    padding-top: 20px;
+    padding-left: 40px;
+    color: rgb(0, 179, 122);
+}
+.set_location{
+    
+    padding-left: 4px;
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 24px;
+    letter-spacing: normal;
+    font-family: inherit;
+    color: rgb(59, 59, 60);
+}
+.down-icon{
+    color: rgb(0, 179, 122);
+}
+.dunzo_partners{
+    padding-left: 145px;
+    font-size: 14px;
+    font-weight: bold;
+    line-height: 24px;
+    letter-spacing: 0.2px;
+    color: rgb(59, 59, 60);
+    font-family: inherit;
+
+}
+.buss_dunzo{
+    padding-left: 20px;
+    font-size: 14px;
+    font-weight: bold;
+    line-height: 24px;
+    letter-spacing: 0.2px;
+    color: rgb(59, 59, 60);
+    font-family: inherit;
+
+}
+.search_cart{
+    padding-left: 35px;
+}
+.shape-button{
+    margin-left: 30px;
+    border-radius: 100px;
+    border-style:hidden;
+    border-spacing: 10px;
+    background-color:  rgb(0, 210, 144);
+    color: white ;
+}
+.box {
+    width: 100%; 
+    height: 35px; 
+    border: 1px solid #000; 
+    background: linear-gradient(to right, rgb(9, 17, 37), rgb(33, 61, 133));
+    box-sizing: border-box;
+    margin-left: 0;
+    margin-right: 0;
+    padding: 0%;
+  }
+  .small-icon{
+    padding-left: 200px;
+  }
+  .box-caption{
+    padding-left: 10px;
+    color: aliceblue;
+    font-weight: 400 ;
+    font-size: 15px;
+  }
+  .app-caption{
+    padding-left: 270px;
+    color: rgb(0, 179, 122);
+    font-size: 16px;
+  }
+  .right-icon{
+    color: rgb(0, 179, 122)
+  } 
+
+  .main-pic{
+    position: relative;
+    width: 1070px;
+    border-radius: 8px;
+    padding-left: 200px;
+    padding-top: 35px; 
+  }
+  .head-office{
+    padding-top: 100px;
+    padding-left: 200px;
+  }
+  .home-text {
+    color: rgb(0, 179, 122)
+  }
+  .arrow{
+    padding-left: 10px;
+    color: rgb(201, 205, 216);
+  }
+  .location-text{
+    padding-left: 10px;
+    color: rgb(168, 177, 206);
+  }
+  .location-des{
+    font-size: 36px;
+    padding-left: 200px;
+    padding-top: 30px;
+    color: #000;
+    font-weight: bold;
+  }
+  
+  .description{
+    padding-top: 30px;
+    font-size: 16px;
+    color: rgb(111, 117, 136);
+    padding-left: 180px ;
+    font-family: arial, sans-serif;
+    max-width: 2000px;
+    line-height: 1.5;
+    margin-left: 20px;
+    text-indent: 3px;
+    text-align:left;
+    font-weight: 100;
+  }
+  .delivery-img{
+    padding-top: 40px;
+    padding-left: 190px;
+  }
+  .first-img{
+    padding-left: 8px;;
+  }
+  .second-img{
+    padding-left: 11px;
+  }
+.third-img{
+    padding-bottom: 5px;
+    padding-left: 11px;
+}
+.fourth-img{
+    padding-left: 14px;
+}
+.other-delivery{
+   padding-top: 30px;
+   padding-left:200px ;
+   background-color:rgb(239, 242, 244);
+   height: 170px;
+   margin: 0%;
+}
+.pan-shop{
+    padding-left: 10px;
+}
+.caption1{
+ padding-top: 100px;
+ padding-left: 200px;
+ font-size: 28px;
+ color: #000;
+}
+.small-line1 {
+    width: 50px; 
+    height: 5px; 
+    background-color: rgb(0, 210, 144);; 
+    border-radius: 10px; 
+    margin-inline-start: 200px;  
+  }
+.picks-img{
+    padding-top: 20px;
+    padding-left: 190px;
+}  
+.mob-img{
+  padding-left: 5px;
+}
+.area-delivery{
+   padding-left: 190px;
+  padding-top: 70px;
+}
+ .area-delivery
+ {
+    padding-top: 50px;
+    padding-left: 100px;
+    color:rgb(15, 25, 56);
+    font-weight: 400;
+    line-height: normal;
+    letter-spacing: normal;
+    font-size: 24px;
+    font-family: gilroy,sans-serif;
+ }
+ .location-delivery{
+    padding-top: 30px;
+    padding-left: 100px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+ }
+ .location-name{
+    color: rgb(161, 156, 156);
+    border-collapse: collapse;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: normal;
+    letter-spacing: normal;
+    font-family: Nunito;
+ }
+.location-name td{
+    border: none;
+    padding: 10px;
+}
+.location-name td+td{
+    padding-left: 110px;
+}
+.container2{
+    width: 100vw;
+    height: 700px;
+    background-color: rgb(23, 30, 48);
+    margin-top: 70px;
+    margin-left: 0%;
+    margin-right: 0%;
+    padding-top: 65px;
+}
+.headline{
+    padding-left: 160px;
+    color: aliceblue;
+    font-weight: 550 ;
+    font-size: 16px;
+    line-height: 20px;
+    letter-spacing: normal;
+    font-family: sans-serif;
+}
+.conclusion {
+    padding-top: 10px;
+    font-size: 16px;
+    color: rgb(183, 186, 195);
+    padding-left: 160px ;
+    font-family: sans-serif;
+    line-height: 1.5;
+    text-align: justify;
+    position: absolute;
+}
+.hori-line{
+    position: absolute; 
+    margin-top:150px;
+     height: 10px;
+  border-top: 1px solid rgba(255, 255, 255, 0.3); 
+  width: 1130px;
+  margin-left: 155px;
+
+}
+
+.footer {
+    display: flex;
+    box-sizing: border-box;
+     padding-top:230px ;
+     padding-left: 150px;
+     color: aliceblue;
+  }
+  
+  .footer img.d-logo {
+    margin-right: 30px;
+    margin-bottom: 60px; 
+  }
+  .footer td+td{
+    padding-left: 100px;
+  }
+    .about-table{
+        border-collapse: separate; 
+        border-spacing: 10px 20px; 
+      }      
+  .about-table th+th{
+    padding-left: 92px;
+  }
+  .obout-table td{
+    color: (255, 255, 255);
+    font-size: 14px;
+    font-weight: lighter;
+    font-family:sans-serif;
+  }
+  
